@@ -35,9 +35,11 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/iknowmagic/pomodoro-app" valign="center" align="center">
-        <img src="assets/pomodoro.png" style="width:300px; height:200px;" />
+      <center>
+      <a href="https://github.com/iknowmagic/pomodoro-app">
+        <img src="assets/pomodoro.png" style="width:225px; height:200px;" />
       </a>
+     </center>
       <br><sup>Pomodoro Application</sup>
     </td>
     <td width="50%">
