@@ -54,5 +54,11 @@
       </a>
       <br><sup>Job Listings with Filtering</sup>
     </td>
+    <td width="50%">
+      <a href="https://github.com/iknowmagic/rock-paper-scissors" valign="center" align="center">
+        <img src="assets/rock.png" style="width:500px; height:200px;" />
+      </a>
+      <br><sup>Rock, Paper, Scissors</sup>
+    </td>
   </tr>
 </table>
