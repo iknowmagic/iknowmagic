@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="#" valign="center" align="center">
+      <a href="https://github.com/iknowmagic/dqn_lunar_lander" valign="center" align="center">
         <img src="assets/lander.gif" style="width:500px; height:200px;" />
       </a>
       <br><sup>DQN Lunar Lander</sup>
