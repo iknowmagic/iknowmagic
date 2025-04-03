@@ -5,6 +5,15 @@
 #### Projects & Experiments:
 
 <table>
+<tr>
+    <td width="50%">
+      <a href="https://github.com/iknowmagic/reactcraft" valign="center" align="center">
+        <img src="assets/reactcraft.png" style="width:500px; height:170px;" />
+      </a>
+      <br><sup>ReactCraft</sup>
+    </td>
+  </tr>
+  <tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/iknowmagic/dqn_lunar_lander" valign="center" align="center">
