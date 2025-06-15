@@ -1,8 +1,8 @@
 <p>
-👋🏻 I’m Ilan — a frontend developer with 10+ years of experience building web apps.
+👋🏻 I'm Ilan — a frontend developer with 10+ years of experience building web apps.
 
 I with React, TypeScript, and Tailwind.  
-I’m also comfortable in Python and Java, and I’ve been exploring AI and cybersecurity on the side — like everyone else lately.
+I'm also comfortable in Python and Java, and I've been exploring AI and cybersecurity on the side — like everyone else lately.
 
 </p>
 
@@ -61,12 +61,6 @@ I’m also comfortable in Python and Java, and I’ve been exploring AI and cybe
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/iknowmagic/devjobs-app" valign="center" align="center">
-        <img src="assets/jobs.png" style="width:500px; height:200px;" />
-      </a>
-      <br><sup>Job Listings with Filtering</sup>
-    </td>
     <td width="50%">
       <a href="https://github.com/iknowmagic/rock-paper-scissors" valign="center" align="center">
         <img src="assets/rock.png" style="width:500px; height:200px;" />
