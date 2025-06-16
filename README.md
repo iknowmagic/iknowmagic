@@ -54,14 +54,6 @@ I'm also comfortable in Python and Java, and I've been exploring AI and cybersec
       <br><sup>Pomodoro Application</sup>
     </td>
     <td width="50%">
-      <a href="https://github.com/iknowmagic/rest-countries-api-with-color-theme-switcher" valign="center" align="center">
-        <img src="assets/flags.png" style="width:500px; height:200px;" />
-      </a>
-      <br><sup>REST Countries API with Color Theme Switcher</sup>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <a href="https://github.com/iknowmagic/rock-paper-scissors" valign="center" align="center">
         <img src="assets/rock.png" style="width:500px; height:200px;" />
       </a>
