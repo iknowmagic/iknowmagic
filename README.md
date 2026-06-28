@@ -6,11 +6,11 @@
 
 I build useful web machinery for people who prefer tools over theater.
 
-Frontend developer and design engineer with **20+ years** building web apps, interfaces, and product systems. I work where design, interaction, and implementation stop pretending to be separate departments.
+Frontend developer and design engineer with **20+ years** building web apps, interfaces, and product systems. I like the part where a vague idea becomes a working thing and the excuses have nowhere left to hide.
 
-I use **React, TypeScript, Tailwind, Python, and UX architecture**. I use AI as leverage: faster prototypes, sharper research, uglier chores automated before they breed.
+I use **React, TypeScript, Tailwind, Python, and UX architecture**. I use AI the way I use any other tool on the bench: to move faster, test more ideas, automate the boring parts, and avoid pretending that ceremony is progress.
 
-> Calm interfaces. Useful features. Ship small. Then simplify.
+> Calm interfaces. Useful features. Ship the thing. Then make it less annoying.
 
 ---
 
@@ -25,9 +25,7 @@ I use **React, TypeScript, Tailwind, Python, and UX architecture**. I use AI as 
     </td>
     <td valign="top">
       <h3><a href="https://qram.study">qram.study</a></h3>
-      Focused study software for high-volume paired-term learning. Import terms, practice actively, and track what still needs work — without ads, feeds, or mid-session sludge.
-      <br /><br />
-      <strong>Status:</strong> active. This is the machine currently making noise on the workbench.
+      Focused study software for high-volume paired-term learning. Import terms, practice actively, and track what still needs work. No feeds. No ads. No little carnival barking for your attention.
     </td>
   </tr>
 </table>
@@ -45,7 +43,7 @@ I use **React, TypeScript, Tailwind, Python, and UX architecture**. I use AI as 
       <br />
       <strong><a href="https://parallaxandponder.online">Parallax &amp; Ponder</a></strong>
       <br />
-      A vocabulary app built around short lessons, deeper listening, and active practice.
+      A vocabulary app built around short lessons, deeper listening, and active practice. Words go in. The fog clears a little.
     </td>
     <td width="33%" valign="top">
       <a href="https://court-interpreter-toolkit.cod3naut.com/">
@@ -54,9 +52,9 @@ I use **React, TypeScript, Tailwind, Python, and UX architecture**. I use AI as 
       <br />
       <strong><a href="https://court-interpreter-toolkit.cod3naut.com/">Court Interpreter Toolkit</a></strong>
       <br />
-      A browser-based practice toolkit for court interpreters: timed sessions, task lists, notes, and calendar tracking.
+      A Chrome extension for court interpreter practice: timed sessions, custom task lists, notes, and a calendar that quietly tells the truth about consistency.
       <br />
-      <a href="https://chromewebstore.google.com/detail/court-interpreter-toolkit/ghbnejickfddbmfjkgofklghbmaambhb">Chrome extension</a>
+      <a href="https://chromewebstore.google.com/detail/court-interpreter-toolkit/ghbnejickfddbmfjkgofklghbmaambhb">Chrome Web Store</a>
     </td>
     <td width="33%" valign="top">
       <a href="https://cod3naut.com">
@@ -65,7 +63,7 @@ I use **React, TypeScript, Tailwind, Python, and UX architecture**. I use AI as 
       <br />
       <strong><a href="https://cod3naut.com">cod3naut</a></strong>
       <br />
-      My public workshop for experiments, odd little utilities, and small web machines.
+      My website and project index. The place where the finished things, half-finished things, and suspiciously useful things can be found without digging through drawers.
     </td>
   </tr>
 </table>
@@ -83,8 +81,8 @@ I use **React, TypeScript, Tailwind, Python, and UX architecture**. I use AI as 
       <ul>
         <li><strong>20+ years</strong> building for the web.</li>
         <li>Product-minded frontend with a design-engineering bent.</li>
-        <li>Calm interfaces over innovation theater.</li>
-        <li>Fast enough to ship, stubborn enough to polish.</li>
+        <li>Interfaces should be calm. The work underneath does not have to be.</li>
+        <li>I like tools that respect attention and pages that know what they are doing.</li>
         <li>Coffee, curiosity, and a healthy suspicion of dull software.</li>
       </ul>
     </td>
@@ -103,8 +101,7 @@ I use **React, TypeScript, Tailwind, Python, and UX architecture**. I use AI as 
 
 - [qram.study](https://qram.study)
 - [Parallax & Ponder](https://parallaxandponder.online)
-- [Court Interpreter Toolkit](https://court-interpreter-toolkit.cod3naut.com/)
-- [Court Interpreter Toolkit — Chrome extension](https://chromewebstore.google.com/detail/court-interpreter-toolkit/ghbnejickfddbmfjkgofklghbmaambhb)
+- [Court Interpreter Toolkit — Chrome Web Store](https://chromewebstore.google.com/detail/court-interpreter-toolkit/ghbnejickfddbmfjkgofklghbmaambhb)
 - [cod3naut](https://cod3naut.com)
 
 ---
