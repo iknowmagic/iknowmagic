@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="assets/hero-pocket-dossier.png" alt="Hi there, I am Ilan" width="100%" />
 </div>
@@ -110,3 +111,68 @@ I use **React, TypeScript, Tailwind, Python, and UX architecture**. I use AI as 
 ---
 
 <sub>One person. Several tabs. A small rebellion against dull software.</sub>
+=======
+<p>
+👋🏻 I'm Ilan — a frontend developer with 10+ years of experience building web apps.
+
+I with React, TypeScript, and Tailwind.  
+I'm also comfortable in Python and Java, and I've been exploring AI and cybersecurity on the side — like everyone else lately.
+
+</p>
+
+#### Projects & Experiments:
+
+<table>
+<tr>
+    <td width="50%">
+      <a href="https://github.com/iknowmagic/reactcraft" valign="center" align="center">
+        <img src="assets/reactcraft.png" style="width:500px; height:170px;" />
+      </a>
+      <br><sup>ReactCraft</sup>
+    </td>
+  </tr>
+  <tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/iknowmagic/dqn_lunar_lander" valign="center" align="center">
+        <img src="assets/lander.gif" style="width:500px; height:200px;" />
+      </a>
+      <br><sup>DQN Lunar Lander</sup>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/iknowmagic/photosnap-multi-page-website" valign="center" align="center">
+        <img src="assets/photosnap.png" style="width:500px; height:200px;" />
+      </a>
+      <br><sup>Photosnap Multi-Page Website</sup>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/iknowmagic/myteam-multi-page-website" valign="center" align="center">
+        <img src="assets/talent.png" style="width:500px; height:200px;" />
+      </a>
+      <br><sup>myteam Multi-Page Website</sup>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/iknowmagic/clock-app" valign="center" align="center">
+        <img src="assets/clock.jpg" style="width:500px; height:200px;" />
+      </a>
+      <br><sup>Clock Application</sup>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/iknowmagic/pomodoro-app" valign="center" align="center">
+        <img src="assets/pomodoro.png" style="width:225px; height:200px;" />
+      </a>
+      <br><sup>Pomodoro Application</sup>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/iknowmagic/rock-paper-scissors" valign="center" align="center">
+        <img src="assets/rock.png" style="width:500px; height:200px;" />
+      </a>
+      <br><sup>Rock, Paper, Scissors</sup>
+    </td>
+  </tr>
+</table>
+>>>>>>> 4dc1137758b4192ce01326638d37f3eb6d14fb52
